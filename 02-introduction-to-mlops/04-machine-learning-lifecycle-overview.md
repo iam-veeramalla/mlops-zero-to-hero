@@ -34,6 +34,7 @@ This is usually the most time-consuming step.
 ### Feature Engineering
 
 Transform raw data into meaningful features.
+dataset lo unna features ki extra features add chayadamm like kinda examples laa idi inka help ayyidi
 
 Examples: converting timestamps, extracting text embeddings, scaling numbers, one-hot encoding categories.
 
